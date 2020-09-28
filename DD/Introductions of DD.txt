@@ -1,0 +1,46 @@
+Highly recommend the video with a technical explanation :
+
+YouTube: https://youtu.be/89AsZnAn-CI (old version)
+
+个人名义发布教程给大家参考， 下载开源代码的时候记得给up主点一下“星星”哦！（右上角）
+B站讲解视频：https://www.bilibili.com/video/BV1zp4y1971R/  (old version)
+
+https://arxiv.org/abs/2004.03955 
+
+Examples:
+
+---------------------------Python-----------------------------------
+
+Underline DD：dd.py
+
+
+---------------------------MATLAB-----------------------------------
+%%%
+Training function
+
+function [net]=DD(X,Y,nl,m,c)
+% X:input
+% Y:output(label)
+% nl:number of layers
+% m:number of samples for one batch
+% c: training number
+
+
+Testing function
+
+function [Y]=test_DD(net,Xm)
+% Xm:input
+
+
+read the model
+
+Read_DD
+% read the model   
+
+If you have some problems about code， please contact me.
+如果在使用过程中对代码有疑惑，请联系我，乐意为您解答。
+E-mail：gangliu.6677@gmail.com, 18954345543@163.com, or lg_7777777@stu.xjtu.edu.cn
+Wechat/微信：18954345543
+
+
+
