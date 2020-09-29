@@ -5,7 +5,7 @@ Dendrite Net: A White-Box Module for Classification, Regression, and System Iden
 A basic machine learning algorithm, named Dendrite Net or DD, just like SVM or MLP. 
 
 
-DD is a brand new basic algorithm.
+DD is a new basic algorithm.
 If you find an algorithm similar to DD, please contact me.  You may have misunderstood.
 Based on previous experience, new things are easy to be questioned. 
 I will explain to you, and I believe you will agree with me.
