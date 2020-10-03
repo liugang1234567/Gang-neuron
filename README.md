@@ -16,5 +16,8 @@ Good DD are eager to be asked. I like the discussions very much.
 
 Use it and you will find it is great.
 
+Correct：MNIST->MINIST
+
+
 Contact me if you have problems in use.
 E-mail: gangliu.6677@gmail.com
