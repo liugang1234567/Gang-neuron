@@ -2,6 +2,10 @@
 Dendrite Net: A White-Box Module for Classification, Regression, and System Identification: https://arxiv.org/abs/2004.03955.  
 It may be time to improve the neuron of artificial neural network (blogs-IEEE preprints-You should cite it.): https://doi.org/10.36227/techrxiv.12477266
 
+ResDD code has been uploaded. For more information, see https://doi.org/10.36227/techrxiv.12477266.
+ResDD can replace the current all ANNs' Neurons (ResDD modules+One Linear module)! ResDD has controllable precision for better generalization capability!
+
+
 B站视频讲解（为了避免用词问题，我说的是中文。有中文基础的研究人员可以观看。）https://www.bilibili.com/video/BV1Dp4y1a7Bk?pop_share=1
 
 
