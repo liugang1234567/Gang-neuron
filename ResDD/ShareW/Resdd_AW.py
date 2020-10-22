@@ -11,6 +11,7 @@ class ResddNet_AW(nn.Module):
         # xw+b
         self.fc0 = nn.Linear(28*28, 256, bias=False)
         self.dd = nn.Linear(256, 256, bias=False)
+        self.dd_1 = nn.Linear(256, 256, bias=False)
 
         self.fc2 = nn.Linear(256, 10, bias=False)
 
@@ -20,6 +21,6 @@ class ResddNet_AW(nn.Module):
         #c = x
         # h1 = x@w1*x
         for i in range(4):
-             x=self.dd(x)*x+self.dd(x)
+             x=self.dd(x)*x+self.dd_1(x)
         x = self.fc2(x)
         return x
