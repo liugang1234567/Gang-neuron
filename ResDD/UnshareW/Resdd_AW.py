@@ -6,7 +6,7 @@ from torch.nn import functional as F
 class ResddNet_AW(nn.Module):
 
     def __init__(self):
-        super(ddNet, self).__init__()
+        super(ResddNet_AW, self).__init__()
 
         # xw+b
         self.fc0 = nn.Linear(28*28, 256, bias=False)
