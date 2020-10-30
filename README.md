@@ -47,6 +47,8 @@ https://doi.org/10.36227/techrxiv.12477266  (IEEE preprints-You should cite it.)
 **AI 3 is for deep learning (CV,NLP).**
 **IEEE  preprints ranking: Top 1 in yearly popularity**
 
+How to avoid curse of dimensionality(DD:normalization,0.99^∞≈0) :https://zhuanlan.zhihu.com/p/269306977
+
 
 Artificial neural networks (ANNs) have won numerous contests in pattern recognition, machine learning, or artificial intelligence in recent years.  The neuron of ANNs was designed by the stereotypical knowledge of biological neurons 70 years ago. Artificial Neuron is expressed as $f(wx+b)$ or $f(WX)$. This design does not consider dendrites' information processing capacity. However, some recent studies show that biological dendrites participate in the pre-calculation of input data. Concretely, biological dendrites play a role in extracting the interaction information among inputs (features). Therefore, it may be time to improve the neuron of ANNs. According to our previous studies (DD), this paper adds the dendrites' function to artificial Neuron. The dendrite function can be expressed as $W^{i,i-1}A^{i-1} \circ A^{0|1|2|...|i-1}$ . The generalized new neuron can be expressed as $f(W(W^{i,i-1}A^{i-1} \circ A^{0|1|2|...|i-1}))$. The simplified new neuron be expressed as $f(\sum(WA \circ X))$ .  After improving the neuron, there are so many networks to try. This paper shows some basic architecture for reference in the future. 
 	
