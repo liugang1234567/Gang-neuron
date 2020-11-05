@@ -60,9 +60,15 @@ Artificial neural networks (ANNs) have won numerous contests in pattern recognit
 E-mail: gangliu.6677@gmail.com
 
 # LICENCE：CC BY-NC-SA 4.0
-paper： It may be time to improve the neuron of artificial neural network
+Paper： It may be time to improve the neuron of artificial neural network
 
-无论何种应用途径及神经元替换位置（例如强化学习、迁移学习等），所有变种DD＋Cell body的应用都应改以Gang neuron命名并引用。
+无论何种应用途径及神经元替换位置（例如强化学习、迁移学习等），所有变种DD＋Cell body的应用都应以Gang neuron命名并引用。
 具体见paper： https://doi.org/10.36227/techrxiv.12477266 。
 根据CC BY-NC-SA 4.0协议，Gang保留版权，如有不符合规范的侵权，Gang有权要求杂志社撤稿或起诉。
+
+Regardless of the application form and the location of neuron replacement (such as reinforcement learning, etc.), all variants of DD+Cell body applications should be named Gang neuron and cite this paper.
+See the paper for details: https://doi.org/10.36227/techrxiv.12477266.
+According to the LICENCE: CC BY-NC-SA 4.0, Gang reserves the copyright. If there is any infringement that does not meet the specifications, Gang has the right to request the magazine to withdraw the tortious manuscript.
+
+
 
