@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%20200217%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%author: LG_AI_striver%%%%%%%%%%%%
-function [Y]=test_TLCnet(net,Xm)
+function [Y]=test_DD(net,Xm)
 % X:input
 
 W=net{1};

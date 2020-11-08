@@ -1,7 +1,7 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%20200217%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%author: LG_AI_striver%%%%%%%%%%%%
-function [net]=TLCnet(X,Y,nl,m,c)
+function [net]=DD(X,Y,nl,m,c)
 %%  TL parameter
 % X:input
 % Y:output(label)

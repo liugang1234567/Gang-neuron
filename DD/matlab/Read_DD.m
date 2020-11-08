@@ -6,7 +6,7 @@ Xm=[1;x1;x2;x3;x4;x5;x6;x7;x8];
 % Xm=[1;x1;x2];
 
 W=net{1};
-nl=net{2};% layer of C-R
+nl=net{2};% number of DD
 %% 
 
   for l=1:nl-1
