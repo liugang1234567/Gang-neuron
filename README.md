@@ -29,7 +29,8 @@ Good DD are eager to be asked. I like the discussions very much.
 
 Use it and you will find it is great.
 
-Correct：MNIST->MINIST
+Correct：Annotation in Fig.2:“and”: multiplication (e.g.,x1x2 ); ”or”:addition (e.g., x1 + x2 ) ;”not”: minus (e.g., −x1 or −x2 ).
+
 
 
 ## Paper 2: A Relation Spectrum Inheriting Taylor Series:  Muscle Synergy and Coupling for Hand
