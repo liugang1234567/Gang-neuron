@@ -6,7 +6,7 @@ Remember to cite the original articles.
 
 **This paper has been submitted to an authoritative journal (6 reviewers, impact factor(IF) of the journal>10). The first review has been completed. After revision, the paper is in the second round of review.**
 
-**Quote format: Liu, Gang, and Jing Wang. "Dendrite Net: A White-Box Module for Classification, Regression, and System Identification." arXiv e-prints (2020): arXiv-2004.
+**Citation format: Liu, Gang, and Jing Wang. "Dendrite Net: A White-Box Module for Classification, Regression, and System Identification." arXiv e-prints (2020): arXiv-2004.
 https://arxiv.org/abs/2004.03955.**  
 
 **DD can be used for generalized engineering.**
@@ -41,7 +41,7 @@ Correct：Annotation in Fig.2:“and”: multiplication (e.g.,x1x2 ); ”or”:a
 
 **This article has been accepted by Frontiers of Information Technology & Electronic Engineering(FITEE)——Journal of Chinese Academy of Engineering, Q2. （我想发个中国工程院的SCI期刊，所以选择了它。推荐本刊，期刊定位高，潜力大。）**
 
-**Quote format: Liu G, Wang J, 2021. A relation spectrum inheriting Taylor series: muscle synergy and coupling for hand. Front Inform Technol Electron Eng, in press.
+**Citation format: Liu G, Wang J, 2021. A relation spectrum inheriting Taylor series: muscle synergy and coupling for hand. Front Inform Technol Electron Eng, in press.
 https://doi.org/10.1631/FITEE.2000578 **
 
 "Article in Press": http://www.jzus.zju.edu.cn/iparticle.php?doi=10.1631/FITEE.2000578
@@ -54,7 +54,7 @@ There are two famous function decomposition methods in math: Taylor Series and F
 
 https://doi.org/10.36227/techrxiv.12477266  (IEEE preprints-You should cite it.)
 
-**Quote format: Liu, Gang (2020): It may be time to improve the neuron of artificial neural network. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.12477266 **
+**Citation format: Liu, Gang (2020): It may be time to improve the neuron of artificial neural network. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.12477266 **
 
 **AI 3 is for deep learning (CV,NLP).**
 **IEEE  preprints ranking: Top 1 in yearly popularity**
