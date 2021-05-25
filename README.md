@@ -71,6 +71,7 @@ Artificial neural networks (ANNs) have won numerous contests in pattern recognit
 # Manuscript in the process of collecting comments: EEGG: An analytic brain-computer interface algorithm
 
 IEEE preprint：https://doi.org/10.36227/techrxiv.13516145
+
 DD or ResDD has just been proposed. It is possible that you have seen it for the first time. If you are interested, you can read related papers. If you have any doubts, you can send an anonymous email to communicate with Gang. Gang likes to exchange scientific research with others (loving scientific research). At the same time, It is welcome to try EEGG in your projects. 
 
 **PS：Because I know too much about it, I have a “mindset”, and I don’t know which details other people don’t understand. Welcome everyone to communicate with me. If you have any doubts, I will explain them in detail in the manuscript and then submit the modified manuscript to the journal. Thank you！
