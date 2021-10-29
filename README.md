@@ -1,6 +1,8 @@
 # Gang-neuron
-<font color="#006666">As long as you cite it in accordance with the specification, you can use gang neuron in your article at will. 只要您规范引用，在您的文章中，您可以随便用！</font><br />
 
+```diff
++ As long as you cite it in accordance with the specification, you can use gang neuron in your article at will. 只要您规范引用，在您的文章中，您可以随便用！
+```
 ___Remember to cite the original articles, especially this paper:  Liu, Gang (2020): It may be time to improve the neuron of artificial neural network. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.12477266___
 
 ___If you use the content in https://doi.org/10.36227/techrxiv.12477266 without citing it, Gang will definitely defend his rights.___
