@@ -12,7 +12,7 @@ ___记得引用原文，尤其是这篇论文:Liu, Gang (2020): It may be time t
 
 ___如果使用了https://doi.org/10.36227/techrxiv.12477266 中的内容，而没有引用它， Gang坚决捍卫自己的权利，追究到底！___
 
-# ----------------My Papers------------------------------------------------------------------------
+# --------------------------------My Papers--------------------------------------------------------------------------------------------------------------
 
 ## Paper 1: Dendrite Net: A White-Box Module for Classification, Regression, and System Identification(IEEE TCYBER, Top Journal,IF=11.448)
 
