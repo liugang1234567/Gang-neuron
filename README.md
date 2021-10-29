@@ -1,4 +1,4 @@
-# Gang-neuron
+# Gang-neuron (As long as you cite it in accordance with the specification, you can use gang neuron in your article at will. 只要您规范引用，在您的文章中，您可以随便用！）
 ### Remember to cite the original articles, especially this paper:  Liu, Gang (2020): It may be time to improve the neuron of artificial neural network. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.12477266
 
 ### If you use the content in https://doi.org/10.36227/techrxiv.12477266 without citing it, Gang will definitely defend his rights.
@@ -10,7 +10,7 @@
 
 ## Paper 1: Dendrite Net: A White-Box Module for Classification, Regression, and System Identification
 
-**This paper has been submitted to an authoritative journal (6 reviewers, impact factor(IF) of the journal>10). The first review has been completed. After revision, the paper is in the second round of review.**
+**This paper has been submitted to an authoritative journal (6 reviewers, impact factor(IF) of the journal>10).  The article has been accepted and the journal is publishing the article. Later, I give a link to this article.**
 
 **Citation format: Liu, Gang, and Jing Wang. "Dendrite Net: A White-Box Module for Classification, Regression, and System Identification." arXiv e-prints (2020): arXiv-2004.
 https://arxiv.org/abs/2004.03955.**  
