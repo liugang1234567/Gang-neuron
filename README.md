@@ -80,7 +80,7 @@ Artificial neural networks (ANNs) have won numerous contests in pattern recognit
 		
 **One important thing:** ResDD can replace the current all ANNs' Neurons (ResDD modules+ One Linear module)!  ResDD has controllable precision for better generalization capability!
 
-## Paper 4: EEGG: An analytic brain-computer interface algorithm (Revision of IEEE TNSRE(Top Journal in BCI)
+## Paper 4: EEGG: An analytic brain-computer interface algorithm (Revision of IEEE TNSRE,Top Journal in BCI)
 
 IEEE preprint：https://doi.org/10.36227/techrxiv.13516145
 
