@@ -12,9 +12,9 @@ ___记得引用原文，尤其是这篇论文:Liu, Gang (2020): It may be time t
 
 ___如果使用了https://doi.org/10.36227/techrxiv.12477266 中的内容，而没有引用它， Gang坚决捍卫自己的权利，追究到底！___
 
-## ##############################################################################################################################################
+# -----------------------------------------------------------------My Papers-----------------------------------------------------------------------------
 
-## Paper 1: Dendrite Net: A White-Box Module for Classification, Regression, and System Identification
+## Paper 1: Dendrite Net: A White-Box Module for Classification, Regression, and System Identification(IEEE TCYBER, Top Journal,IF=11.448)
 
 **This paper has been submitted to an authoritative journal (6 reviewers, impact factor(IF) of the journal>10).  The article has been accepted and the journal is publishing the article. Later, I give a link to this article.**
 
@@ -33,9 +33,9 @@ This paper presents a basic machine learning algorithm, named Dendrite Net or DD
 
 We highlight DD's white-box attribute, controllable precision for better generalization capability, and lower computational complexity. Not only can DD be used for generalized engineering, but DD has vast development potential as a module for deep learning.
 
-### B站视频讲解（为了避免用词问题，我说的是中文。有中文基础的研究人员可以观看。）https://www.bilibili.com/video/BV1Dp4y1a7Bk?pop_share=1
+__B站视频讲解（为了避免用词问题，我说的是中文。有中文基础的研究人员可以观看。）https://www.bilibili.com/video/BV1Dp4y1a7Bk?pop_share=1 __
 
-### DD is a new basic algorithm.
+__DD is a new basic algorithm.__
 If you find an algorithm similar to DD, please contact me.  You may have misunderstood.
 Based on previous experience, new things are easy to be questioned. 
 
@@ -49,7 +49,7 @@ Correct：Annotation in Fig.2:“and”: multiplication (e.g.,x1x2 ); ”or”:a
 
 
 
-## Paper 2: A Relation Spectrum Inheriting Taylor Series:  Muscle Synergy and Coupling for Hand
+## Paper 2: A Relation Spectrum Inheriting Taylor Series:  Muscle Synergy and Coupling for Hand (中国工程院院刊）
 
 **This article has been accepted by Frontiers of Information Technology & Electronic Engineering(FITEE)——Journal of Chinese Academy of Engineering, Q2. （我想发个中国工程院的SCI期刊，所以选择了它。推荐本刊，期刊定位高，潜力大。）**
 
@@ -62,7 +62,7 @@ https://doi.org/10.1631/FITEE.2000578 **
 
 There are two famous function decomposition methods in math: Taylor Series and Fourier Series. Fourier series developed into Fourier spectrum, which was applied to signal decomposition\analysis. However, because the Taylor series  whose function without a definite functional expression cannot  be solved, Taylor Series has rarely been used in engineering.  Here, we developed Taylor series by our Dendrite Net, constructed a relation spectrum, and applied it to model or system  decomposition\analysis. **The relation spectrum  makes the online model human-readable, which unifies online  performance and offline results.**
 
-## AI 3: It may be time to improve the neuron of artificial neural network
+## AI 3: It may be time to improve the neuron of artificial neural network( IEEE Top 1 in yearly popularity.You Must cite it!)
 
 https://doi.org/10.36227/techrxiv.12477266  (IEEE preprints-You should cite it.)
 
@@ -80,7 +80,7 @@ Artificial neural networks (ANNs) have won numerous contests in pattern recognit
 		
 **One important thing:** ResDD can replace the current all ANNs' Neurons (ResDD modules+ One Linear module)!  ResDD has controllable precision for better generalization capability!
 
-# Manuscript in the process of collecting comments: EEGG: An analytic brain-computer interface algorithm
+## Paper 4: EEGG: An analytic brain-computer interface algorithm (Revision of IEEE TNSRE(Top Journal in BCI)
 
 IEEE preprint：https://doi.org/10.36227/techrxiv.13516145
 
@@ -90,7 +90,7 @@ DD or ResDD has just been proposed. It is possible that you have seen it for the
 
 
 
-# Contact me if you have problems in use.
+## Contact me if you have problems in use.
 E-mail: gangliu.6677@gmail.com
 
 # LICENCE：CC BY-NC-SA 4.0
