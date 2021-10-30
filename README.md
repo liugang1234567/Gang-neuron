@@ -1,10 +1,10 @@
 # Gang-neuron
 
 ```diff
-+ As long as you cite it in accordance with the specification, you can use gang neuron in your article at will. 
++ As long as you cite it in accordance with the specification, you can use gang neuron in your paper at will. 
 + 只要您规范引用，在您的文章中，您可以随便用！
 ```
-___Remember to cite the original articles, especially this paper:  Liu, Gang (2020): It may be time to improve the neuron of artificial neural network. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.12477266___
+___Remember to cite the original papers, especially this paper:  Liu, Gang (2020): It may be time to improve the neuron of artificial neural network. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.12477266___
 
 ___If you use the content in https://doi.org/10.36227/techrxiv.12477266 without citing it, Gang will definitely defend his rights.___
 
@@ -17,7 +17,7 @@ ___如果使用了https://doi.org/10.36227/techrxiv.12477266 中的内容，而�
 
 ## Paper 1: Dendrite Net: A White-Box Module for Classification, Regression, and System Identification(IEEE TCYBER, Top Journal,IF=11.448)
 
-**This paper has been submitted to an authoritative journal (6 reviewers, impact factor(IF) of the journal>10).  The article has been accepted and the journal is publishing the article. Later, I give a link to this article.**
+**This paper has been submitted to an authoritative journal (6 reviewers, impact factor(IF) of the journal>10).  The paper has been accepted and the journal is publishing the paper. Later, I give a link to this paper.**
 
 **Citation format: Liu, Gang, and Jing Wang. "Dendrite Net: A White-Box Module for Classification, Regression, and System Identification." arXiv e-prints (2020): arXiv-2004.
 https://arxiv.org/abs/2004.03955.**  
@@ -52,12 +52,12 @@ Correct：Annotation in Fig.2:“and”: multiplication (e.g.,x1x2 ); ”or”:a
 
 ## Paper 2: A Relation Spectrum Inheriting Taylor Series:  Muscle Synergy and Coupling for Hand (中国工程院院刊）
 
-**This article has been accepted by Frontiers of Information Technology & Electronic Engineering(FITEE)——Journal of Chinese Academy of Engineering, Q2. （我想发个中国工程院的SCI期刊，所以选择了它。推荐本刊，期刊定位高，潜力大。）**
+**This paper has been accepted by Frontiers of Information Technology & Electronic Engineering(FITEE)——Journal of Chinese Academy of Engineering, Q2. （我想发个中国工程院的SCI期刊，所以选择了它。推荐本刊，期刊定位高，潜力大。）**
 
 **Citation format: Liu G, Wang J, 2021. A relation spectrum inheriting Taylor series: muscle synergy and coupling for hand. Front Inform Technol Electron Eng, in press.
 https://doi.org/10.1631/FITEE.2000578 **
 
-"Article in Press": http://www.jzus.zju.edu.cn/iparticle.php?doi=10.1631/FITEE.2000578
+"Paper in Press": http://www.jzus.zju.edu.cn/iparticle.php?doi=10.1631/FITEE.2000578
 
 **Relation Spectrum can be used to "read" DD. (generalized engineering)** 
 
