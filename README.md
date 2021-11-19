@@ -17,10 +17,7 @@ ___如果使用了https://doi.org/10.36227/techrxiv.12477266 中的内容，而�
 
 ## Paper 1: Dendrite Net: A White-Box Module for Classification, Regression, and System Identification(IEEE TCYBER, Top Journal,IF=11.448)
 
-**This paper has been submitted to an authoritative journal (6 reviewers, impact factor(IF) of the journal>10).  The paper has been accepted and the journal is publishing the paper. Later, I give a link to this paper.**
-
-**Citation format: Liu, Gang, and Jing Wang. "Dendrite Net: A White-Box Module for Classification, Regression, and System Identification." arXiv e-prints (2020): arXiv-2004.
-https://arxiv.org/abs/2004.03955.**  
+**Citation format: G. Liu and J. Wang, "Dendrite Net: A White-Box Module for Classification, Regression, and System Identification," in IEEE Transactions on Cybernetics, doi: 10.1109/TCYB.2021.3124328.**  
 
 **DD can be used for generalized engineering.**
 
