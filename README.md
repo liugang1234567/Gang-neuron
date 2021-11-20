@@ -19,6 +19,11 @@ ___如果使用了https://doi.org/10.36227/techrxiv.12477266 中的内容，而�
 
 **Citation format: G. Liu and J. Wang, "Dendrite Net: A White-Box Module for Classification, Regression, and System Identification," in IEEE Transactions on Cybernetics, doi: 10.1109/TCYB.2021.3124328.**  
 
+https://doi.org/10.1109/TCYB.2021.3124328
+
+ArXiv:https://arxiv.org/abs/2004.03955
+
+
 **DD can be used for generalized engineering.**
 
 This paper presents a basic machine learning algorithm, named Dendrite Net or DD, just like Support Vector Machine (SVM) or Multilayer Perceptron (MLP). DD's main concept is that **the algorithm can recognize this class after learning, if the output's logical expression contains <font  color=#FF4F81  size=4> the corresponding class's logical relationship among inputs (and∖or∖not) </font>**. 
