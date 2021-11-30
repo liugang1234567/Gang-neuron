@@ -15,7 +15,7 @@ ___如果使用了https://doi.org/10.36227/techrxiv.12477266 中的内容，而�
 # -------------------My Papers---------------------------------------------------------------------------------------------
 
 
-## Paper 1: Dendrite Net: A White-Box Module for Classification, Regression, and System Identification(IEEE TCYBER, Top Journal,IF=11.448)
+## Paper 1: Dendrite Net: A White-Box Module for Classification, Regression, and System Identification(IEEE Transactions on Cybernetics, Top Journal,IF=11.448)
 
 **Citation format: G. Liu and J. Wang, "Dendrite Net: A White-Box Module for Classification, Regression, and System Identification," in IEEE Transactions on Cybernetics, doi: 10.1109/TCYB.2021.3124328.**  
 
@@ -49,7 +49,7 @@ Good DD are eager to be asked. I like the discussions very much.
 Use it and you will find it is great.
 
 
-## Paper 2: A Relation Spectrum Inheriting Taylor Series:  Muscle Synergy and Coupling for Hand (中国工程院院刊）
+## Paper 2: A Relation Spectrum Inheriting Taylor Series:  Muscle Synergy and Coupling for Hand (Frontiers of Information Technology & Electronic Engineering, 中国工程院院刊）
 
 **This paper has been accepted by Frontiers of Information Technology & Electronic Engineering(FITEE)——Journal of Chinese Academy of Engineering, Q2. （我想发个中国工程院的SCI期刊，所以选择了它。推荐本刊，期刊定位高，潜力大。）**
 
@@ -62,7 +62,7 @@ https://doi.org/10.1631/FITEE.2000578 **
 
 There are two famous function decomposition methods in math: Taylor Series and Fourier Series. Fourier series developed into Fourier spectrum, which was applied to signal decomposition\analysis. However, because the Taylor series  whose function without a definite functional expression cannot  be solved, Taylor Series has rarely been used in engineering.  Here, we developed Taylor series by our Dendrite Net, constructed a relation spectrum, and applied it to model or system  decomposition\analysis. **The relation spectrum  makes the online model human-readable, which unifies online  performance and offline results.**
 
-## AI 3: It may be time to improve the neuron of artificial neural network( IEEE Top 1 in yearly popularity.You Must cite it!)
+## AI 3: It may be time to improve the neuron of artificial neural network(IEEE TechRxiv, This paper is the IEEE Top 1 in yearly popularity.You Must cite it!)
 
 https://doi.org/10.36227/techrxiv.12477266  (IEEE preprints-You should cite it.)
 
@@ -80,7 +80,9 @@ Artificial neural networks (ANNs) have won numerous contests in pattern recognit
 		
 **One important thing:** ResDD can replace the current all ANNs' Neurons (ResDD modules+ One Linear module)!  ResDD has controllable precision for better generalization capability!
 
-## Paper 4: EEGG: An analytic brain-computer interface algorithm (Revision of IEEE TNSRE,Top Journal in BCI)
+## Paper 4: EEGG: An analytic brain-computer interface algorithm (IEEE Transactions on Neural Systems and Rehabilitation Engineering,Top Journal in BCI)
+
+The first review was completed, the reviewers gave a good evaluation of this article, and the revised manuscript is under review for the second time. 
 
 IEEE preprint：https://doi.org/10.36227/techrxiv.13516145
 
@@ -88,6 +90,9 @@ DD or ResDD has just been proposed. It is possible that you have seen it for the
 
 **PS：Because I know too much about it, I have a “mindset”, and I don’t know which details other people don’t understand. Welcome everyone to communicate with me. If you have any doubts, I will explain them in detail in the manuscript and then submit the modified manuscript to the journal. Thank you！
 
+
+
+## Paper 5: XXXXXXXXXXX keep secret XXXXXXXXX (Submitted to IEEE Signal Processing Letter, a journal with great reputation in signal processing)
 
 
 ## Contact me if you have problems in use.
