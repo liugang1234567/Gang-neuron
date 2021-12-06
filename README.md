@@ -92,7 +92,7 @@ DD or ResDD has just been proposed. It is possible that you have seen it for the
 
 
 
-## Paper 5: XXXXXXXXXXX keep secret XXXXXXXXX (Submitted to IEEE Signal Processing Letter, a journal with great reputation in signal processing)
+## Paper 5: XXXXXXXXXXX letter XXXXXX
 
 
 ## Contact me if you have problems in use.
