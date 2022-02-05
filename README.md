@@ -80,15 +80,10 @@ Artificial neural networks (ANNs) have won numerous contests in pattern recognit
 		
 **One important thing:** ResDD can replace the current all ANNs' Neurons (ResDD modules+ One Linear module)!  ResDD has controllable precision for better generalization capability!
 
-## Paper 4: EEGG: An analytic brain-computer interface algorithm (IEEE Transactions on Neural Systems and Rehabilitation Engineering,Top Journal in BCI)
+## Paper 4: EEGG: An analytic brain-computer interface algorithm (IEEE Transactions on Neural Systems and Rehabilitation Engineering,Top Journal in BCI，Accepted)
 
-The first review was completed, the reviewers gave a good evaluation of this article, and the revised manuscript is under review for the second time. 
 
 IEEE preprint：https://doi.org/10.36227/techrxiv.13516145
-
-DD or ResDD has just been proposed. It is possible that you have seen it for the first time. If you are interested, you can read related papers. If you have any doubts, you can send an anonymous email to communicate with Gang. Gang likes to exchange scientific research with others (loving scientific research). At the same time, It is welcome to try EEGG in your projects. 
-
-**PS：Because I know too much about it, I have a “mindset”, and I don’t know which details other people don’t understand. Welcome everyone to communicate with me. If you have any doubts, I will explain them in detail in the manuscript and then submit the modified manuscript to the journal. Thank you！
 
 
 
