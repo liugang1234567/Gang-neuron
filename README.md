@@ -53,10 +53,7 @@ Use it and you will find it is great.
 
 **This paper has been accepted by Frontiers of Information Technology & Electronic Engineering(FITEE)——Journal of Chinese Academy of Engineering, Q2. （我想发个中国工程院的SCI期刊，所以选择了它。推荐本刊，期刊定位高，潜力大。）**
 
-**Citation format: Liu G, Wang J, 2021. A relation spectrum inheriting Taylor series: muscle synergy and coupling for hand. Front Inform Technol Electron Eng, in press.
-https://doi.org/10.1631/FITEE.2000578 **
-
-"Paper in Press": http://www.jzus.zju.edu.cn/iparticle.php?doi=10.1631/FITEE.2000578
+**Citation format: Liu, G., Wang, J. A relation spectrum inheriting Taylor series: muscle synergy and coupling for hand. Front Inform Technol Electron Eng 23, 145–157 (2022). https://doi.org/10.1631/FITEE.2000578
 
 **Relation Spectrum can be used to "read" DD. (generalized engineering)** 
 
@@ -82,8 +79,10 @@ Artificial neural networks (ANNs) have won numerous contests in pattern recognit
 
 ## Paper 4: EEGG: An analytic brain-computer interface algorithm (IEEE Transactions on Neural Systems and Rehabilitation Engineering,Top Journal in BCI，Accepted)
 
+**Citation format: G. Liu and J. Wang, "EEGG: An Analytic Brain-computer Interface Algorithm," in IEEE Transactions on Neural Systems and Rehabilitation Engineering, doi: 10.1109/TNSRE.2022.3149654.
 
-IEEE preprint：https://doi.org/10.36227/techrxiv.13516145
+
+http://dx.doi.org/10.1109/TNSRE.2022.3149654
 
 
 
@@ -98,11 +97,11 @@ Paper： It may be time to improve the neuron of artificial neural network
 
 无论何种应用途径及神经元替换位置（例如强化学习、迁移学习等），所有变种DD＋Cell body的应用都应以Gang neuron命名相应的模块并引用。
 具体见paper： https://doi.org/10.36227/techrxiv.12477266 。
-**命名及引用样例如这篇文章：https://doi.org/10.36227/techrxiv.13516145  （"ResDD of Gang neuron"）**
+**命名及引用样例如这篇文章：http://dx.doi.org/10.1109/TNSRE.2022.3149654  （"ResDD of Gang neuron"）**
 **根据CC BY-NC-SA 4.0协议，Gang保留版权，如有不符合规范的侵权，Gang有权要求杂志社撤稿或起诉。**
 
 Regardless of the application form and the location of neuron replacement (such as reinforcement learning, etc.), all variants of DD+Cell body applications about Corresponding module of Gang neuron  should be named Gang neuron and cite this paper.See the paper for details: https://doi.org/10.36227/techrxiv.12477266.
-**Example of uses in paper:https://doi.org/10.36227/techrxiv.13516145  （"ResDD of Gang neuron"）**
+**Example of uses in paper:http://dx.doi.org/10.1109/TNSRE.2022.3149654  （"ResDD of Gang neuron"）**
 **According to the LICENCE: CC BY-NC-SA 4.0, Gang reserves the copyright. If there is any infringement that does not meet the specifications, Gang has the right to request the magazine to withdraw the tortious manuscript.**
 
 
