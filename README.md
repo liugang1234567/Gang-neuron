@@ -80,7 +80,7 @@ There are two famous function decomposition methods in math: Taylor Series and F
 
 
 
-## Paper 4: EEGG: An analytic brain-computer interface algorithm (IEEE Transactions on Neural Systems and Rehabilitation Engineering,Top Journal in BCI，Accepted)
+## Paper 4: EEGG: An analytic brain-computer interface algorithm (IEEE Transactions on Neural Systems and Rehabilitation Engineering,Top Journal in BCI)
 
 **Citation format: G. Liu and J. Wang, "EEGG: An Analytic Brain-computer Interface Algorithm," in IEEE Transactions on Neural Systems and Rehabilitation Engineering, doi: 10.1109/TNSRE.2022.3149654.
 
