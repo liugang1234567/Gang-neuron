@@ -107,7 +107,7 @@ Regardless of the application form and the location of neuron replacement (such 
 **Example of uses in paper:http://dx.doi.org/10.1109/TNSRE.2022.3149654  （"ResDD of Gang neuron"）**
 **According to the LICENCE: CC BY-NC-SA 4.0, Gang reserves the copyright. If there is any infringement that does not meet the specifications, Gang has the right to request the magazine to withdraw the tortious manuscript.**
 
-# safeguard rights
+# Safeguard rights
 
 On 30 January 2022, an article “Polynomial dendritic neural networks” plagiarizes “Generalized Dendrite module（WX○A）” and claims they propose dendrites in general form and call DD a special case. I have contacted the author, and this article may be withdrawn in the future. I hope you do not cite this article. You can cite the original 2020 article (https://doi.org/10.36227/techrxiv.12477266 ). The relevant comparison documents have been uploaded to the folder:Safeguard_rights. 
 
