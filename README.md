@@ -111,7 +111,7 @@ Regardless of the application form and the location of neuron replacement (such 
 
 # Safeguard rights
 
-On 22 February 2022, an article “Polynomial dendritic neural networks” uses “Generalized Dendrite module（WX○A）” in the 2020 paper（https://doi.org/10.36227/techrxiv.12477266） and claims they propose dendrites in general form and call DD a special case. I have contacted the author, and this article may be revised in the future. I hope you do not cite this article. You can cite the original 2020 article (https://doi.org/10.36227/techrxiv.12477266 ). The relevant comparison documents have been uploaded to the folder:Safeguard_rights. 
+On 22 February 2022, a paper “Polynomial dendritic neural networks” uses “Generalized Dendrite module（WX○A）” in the 2020 paper（https://doi.org/10.36227/techrxiv.12477266） and claims they propose dendrites in general form and call DD a special case. I have contacted the author, and this article may be revised in the future. I hope you do not cite this paper. You can cite the original 2020 paper (https://doi.org/10.36227/techrxiv.12477266 ). The relevant comparison documents have been uploaded to the folder:Safeguard_rights. 
 
 ——————————————I just want them to point out “Generalized Dendrite module（WX○A）” and cite it in accordance with the contribution specification. I updated here after I contacted the author.
 
