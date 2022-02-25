@@ -21,8 +21,10 @@ https://doi.org/10.36227/techrxiv.12477266  (IEEE preprints-You should cite it.)
 
 **Citation format: Liu, Gang (2020): It may be time to improve the neuron of artificial neural network. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.12477266 **
 
-
 **IEEE  preprints ranking: Top 1 in yearly popularity**
+
+***The paper has been cited in multiple papers, such as IEEE Transactions on Cybernetics and IEEE Transactions on Neural Systems and Rehabilitation Engineering， on Google Scholar.***
+
 
 How to avoid curse of dimensionality(DD:normalization,0.99^∞≈0) :https://zhuanlan.zhihu.com/p/269306977
 
@@ -112,6 +114,9 @@ Regardless of the application form and the location of neuron replacement (such 
 On 22 February 2022, an article “Polynomial dendritic neural networks” uses “Generalized Dendrite module（WX○A）” and claims they propose dendrites in general form and call DD a special case. I have contacted the author, and this article may be revised in the future. I hope you do not cite this article. You can cite the original 2020 article (https://doi.org/10.36227/techrxiv.12477266 ). The relevant comparison documents have been uploaded to the folder:Safeguard_rights. 
 
 ——————————————I just want them to point out “Generalized Dendrite module（WX○A）” and cite it in accordance with the contribution specification. I updated here after I contacted the author.
+
+***The paper（https://doi.org/10.36227/techrxiv.12477266） has been cited in multiple papers, such as IEEE Transactions on Cybernetics and IEEE Transactions on Neural Systems and Rehabilitation Engineering， on Google Scholar.***
+
 
 2022 年 2 月 22 日，一篇文章“Polynomial dendritic neural networks”使用了一般形式的树突（WX○A），并声称他们提出了一般形式的树突，并将 DD 称为特例。 我已经联系了作者，之后这篇文章会重新修正， 请大家不要引用。 可以引用2020原文（https://doi.org/10.36227/techrxiv.12477266）。 文章比较文件已上传至文件夹：Safeguard_rights。
 
