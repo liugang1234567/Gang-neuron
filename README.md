@@ -122,6 +122,6 @@ On 22 February 2022, an article “Polynomial dendritic neural networks” uses 
 
 ——————————————实际上，我仅仅只是想让他们指出2020年已提出的“一般形式的树突（WX○A）”，不要声称他们2022年提出了一般形式，并根据学术规范引用我2020年一般形式DD的总文章。我联系作者后，不得已在此更新~
 
-***谷歌学术上可查到，2020年论文(https://doi.org/10.36227/techrxiv.12477266)已被IEEE Transactions on Cybernetics、IEEE Transactions on Neural Systems and Rehabilitation Engineering等期刊的多篇论文引用。***
+***谷歌学术上可查到，2020年论文( https://doi.org/10.36227/techrxiv.12477266 )已被IEEE Transactions on Cybernetics、IEEE Transactions on Neural Systems and Rehabilitation Engineering等期刊的多篇论文引用。***
 
 
