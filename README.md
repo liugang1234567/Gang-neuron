@@ -109,11 +109,11 @@ Regardless of the application form and the location of neuron replacement (such 
 
 # Safeguard rights
 
-On 22 February 2022, an article “Polynomial dendritic neural networks” plagiarizes “Generalized Dendrite module（WX○A）” and claims they propose dendrites in general form and call DD a special case. I have contacted the author, and this article may be withdrawn in the future. I hope you do not cite this article. You can cite the original 2020 article (https://doi.org/10.36227/techrxiv.12477266 ). The relevant comparison documents have been uploaded to the folder:Safeguard_rights. 
+On 22 February 2022, an article “Polynomial dendritic neural networks” uses “Generalized Dendrite module（WX○A）” and claims they propose dendrites in general form and call DD a special case. I have contacted the author, and this article may be withdrawn in the future. I hope you do not cite this article. You can cite the original 2020 article (https://doi.org/10.36227/techrxiv.12477266 ). The relevant comparison documents have been uploaded to the folder:Safeguard_rights. 
 
 ——————————————I just want them to point out “Generalized Dendrite module（WX○A）” and cite it in accordance with the contribution specification.But they ignored me.
 
-2022 年 2 月 22 日，一篇文章“Polynomial dendritic neural networks”抄袭了一般形式的树突（WX○A），并声称他们提出了一般形式的树突，并将 DD 称为特例。 我已经联系了作者，之后这篇文章可能会撤稿， 请大家不要引用。 可以引用2020原文（https://doi.org/10.36227/techrxiv.12477266）。 文章比较文件已上传至文件夹：Safeguard_rights。
+2022 年 2 月 22 日，一篇文章“Polynomial dendritic neural networks”使用了一般形式的树突（WX○A），并声称他们提出了一般形式的树突，并将 DD 称为特例。 我已经联系了作者，之后这篇文章可能会撤稿， 请大家不要引用。 可以引用2020原文（https://doi.org/10.36227/techrxiv.12477266）。 文章比较文件已上传至文件夹：Safeguard_rights。
 
 ——————————————实际上，我仅仅只是想让他们指出2020年已提出的“一般形式的树突（WX○A）”，不要声称他们2022年提出了一般形式而DD只是特例，并根据学术规范引用我2020年一般形式DD的总文章。但是我发邮件联系后发现这似乎是奢望，不得已才在这更新~
 
