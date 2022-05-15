@@ -109,18 +109,13 @@ Regardless of the application form and the location of neuron replacement (such 
 **Example of uses in paper: http://dx.doi.org/10.1109/TNSRE.2022.3149654  （"ResDD of Gang neuron"）**
 **According to the LICENCE: CC BY-NC-SA 4.0, Gang reserves the copyright. If there is any infringement that does not meet the specifications, Gang has the right to request the magazine to withdraw the tortious manuscript.**
 
-# Safeguard rights
 
-On 22 February 2022, a paper “Polynomial dendritic neural networks” uses “Generalized Dendrite module（W A^{i-1} ○ A^{i-1}）” in the 2020 paper（https://doi.org/10.36227/techrxiv.12477266 ）without linking to the 2020 paper(citation）and claims they propose dendrites in general form. I have contacted the author, and this paper may be revised in the future. I hope you do not cite this paper. You can cite the original 2020 paper (https://doi.org/10.36227/techrxiv.12477266 ). The relevant comparison documents have been uploaded to the folder:Safeguard_rights. 
 
-——————————————I just want them to point out “Generalized Dendrite module（W A^{i-1} ○ A^{i-1}）” and cite it in accordance with the contribution specification. I updated here after I contacted the author.
 
 ***The original 2020 paper（https://doi.org/10.36227/techrxiv.12477266） has been cited in multiple papers, such as IEEE Transactions on Cybernetics and IEEE Transactions on Neural Systems and Rehabilitation Engineering， on Google Scholar.***
 
 
-2022 年 2 月 22 日，一篇文章“Polynomial dendritic neural networks”使用了2020年文章（ https://doi.org/10.36227/techrxiv.12477266 ）中一般形式的树突（W A^{i-1}○ A^{i-1}）而没给出链接到2020年文章的引用，并声称他们提出了一般形式的树突。 我已经联系了作者，之后这篇文章会重新修正， 请大家不要引用。 可以引用2020原文（https://doi.org/10.36227/techrxiv.12477266 ）。 文章比较文件已上传至文件夹：Safeguard_rights。
 
-——————————————实际上，我仅仅只是想让他们指出2020年已提出的“一般形式的树突（W A^{i-1} ○ A^{i-1}）”，不要声称他们2022年提出了一般形式，并根据学术规范引用我2020年一般形式DD的总文章。我联系作者后，不得已在此更新~
 
 ***谷歌学术上可查到，原始的2020年论文( https://doi.org/10.36227/techrxiv.12477266 )已被IEEE Transactions on Cybernetics、IEEE Transactions on Neural Systems and Rehabilitation Engineering等期刊的多篇论文引用。***
 
