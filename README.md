@@ -4,11 +4,11 @@
 + As long as you cite it in accordance with the specification, you can use gang neuron in your paper at will. 
 + 只要您规范引用，在您的文章中，您可以随便用！
 ```
-___Remember to cite the original papers, especially this paper:  Liu, Gang (2020): It may be time to improve the neuron of artificial neural network. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.12477266___
+___Remember to cite the original papers, especially this paper:  Liu, Gang (2020): It may be time to improve the neuron of artificial neural network.IEEE TechRxiv. https://doi.org/10.36227/techrxiv.12477266___
 
 ___If you use the content in https://doi.org/10.36227/techrxiv.12477266 without citing it, Gang will definitely defend his rights.___
 
-___记得引用原文，尤其是这篇论文:Liu, Gang (2020): It may be time to improve the neuron of artificial neural network. TechRxiv. 2020 https://doi.org/10.36227/techrxiv.12477266___
+___记得引用原文，尤其是这篇论文:Liu, Gang (2020): It may be time to improve the neuron of artificial neural network. IEEE TechRxiv. https://doi.org/10.36227/techrxiv.12477266___
 
 ___如果使用了https://doi.org/10.36227/techrxiv.12477266 中的内容，而没有引用它， Gang坚决捍卫自己的权利，追究到底！___
 
@@ -19,7 +19,7 @@ ___如果使用了https://doi.org/10.36227/techrxiv.12477266 中的内容，而�
 
 https://doi.org/10.36227/techrxiv.12477266  (IEEE preprints-You should cite it.)
 
-**Citation format: Liu, Gang (2020): It may be time to improve the neuron of artificial neural network. TechRxiv.2020. https://doi.org/10.36227/techrxiv.12477266 **
+**Citation format: Liu, Gang (2020): It may be time to improve the neuron of artificial neural network. IEEE TechRxiv. https://doi.org/10.36227/techrxiv.12477266 **
 
 **IEEE  preprints ranking: Top 1 in yearly popularity**
 
