@@ -8,18 +8,18 @@ ___Remember to cite the original papers, especially this paper:  Liu, Gang (2020
 
 ___If you use the content in https://doi.org/10.36227/techrxiv.12477266 without citing it, Gang will definitely defend his rights.___
 
-___记得引用原文，尤其是这篇论文:Liu, Gang (2020): It may be time to improve the neuron of artificial neural network. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.12477266___
+___记得引用原文，尤其是这篇论文:Liu, Gang (2020): It may be time to improve the neuron of artificial neural network. TechRxiv. 2020 https://doi.org/10.36227/techrxiv.12477266___
 
 ___如果使用了https://doi.org/10.36227/techrxiv.12477266 中的内容，而没有引用它， Gang坚决捍卫自己的权利，追究到底！___
 
-# -------------------My Papers---------------------------------------------------------------------------------------------
+# -------------------Papers---------------------------------------------------------------------------------------------
 
 
 ## Main Paper(AI): It may be time to improve the neuron of artificial neural network(IEEE TechRxiv, This paper is the IEEE preprint Top 1 in yearly popularity.You Must cite it!)
 
 https://doi.org/10.36227/techrxiv.12477266  (IEEE preprints-You should cite it.)
 
-**Citation format: Liu, Gang (2020): It may be time to improve the neuron of artificial neural network. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.12477266 **
+**Citation format: Liu, Gang (2020): It may be time to improve the neuron of artificial neural network. TechRxiv.2020. https://doi.org/10.36227/techrxiv.12477266 **
 
 **IEEE  preprints ranking: Top 1 in yearly popularity**
 
@@ -36,7 +36,7 @@ Artificial neural networks (ANNs) have won numerous contests in pattern recognit
 **One important thing:** ResDD can replace the current all ANNs' Neurons (ResDD modules+ One Linear module)!  ResDD has controllable precision for better generalization capability!
 
 
-## Paper 2: Dendrite Net: A White-Box Module for Classification, Regression, and System Identification(IEEE Transactions on Cybernetics, Top Journal,IF=11.448)
+## Paper 2: Dendrite Net: A White-Box Module for Classification, Regression, and System Identification(IEEE Transactions on Cybernetics, Top Journal,IF=19.118)
 
 **Citation format: G. Liu and J. Wang, "Dendrite Net: A White-Box Module for Classification, Regression, and System Identification," in IEEE Transactions on Cybernetics, doi: 10.1109/TCYB.2021.3124328.**  
 
