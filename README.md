@@ -15,7 +15,7 @@ ___如果使用了https://doi.org/10.36227/techrxiv.12477266 中的内容，而�
 # -------------------Papers---------------------------------------------------------------------------------------------
 
 
-## Main Paper(AI): It may be time to improve the neuron of artificial neural network(IEEE TechRxiv, This paper is the IEEE preprint Top 1 in yearly popularity.You Must cite it!)
+## Main Paper(AI): It may be time to improve the neuron of artificial neural network(IEEE TechRxiv, This paper is the IEEE TechRxiv Top 1 in yearly popularity.You Must cite it!)
 
 https://doi.org/10.36227/techrxiv.12477266  (IEEE preprints-You should cite it.)
 
