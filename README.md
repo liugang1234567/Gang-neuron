@@ -8,9 +8,7 @@ ___Remember to cite the original papers, especially this paper:  Liu, Gang (2020
 
 ___If you use the content in https://doi.org/10.36227/techrxiv.12477266 without citing it, Gang will definitely defend his rights.___
 
-___记得引用原文，尤其是这篇论文:Liu, Gang (2020): It may be time to improve the neuron of artificial neural network. IEEE TechRxiv. https://doi.org/10.36227/techrxiv.12477266___
-
-___如果使用了https://doi.org/10.36227/techrxiv.12477266 中的内容，而没有引用它， Gang坚决捍卫自己的权利，追究到底！___
+___记得引用原文，尤其是这篇最核心论文:Liu, Gang (2020): It may be time to improve the neuron of artificial neural network. IEEE TechRxiv. https://doi.org/10.36227/techrxiv.12477266___    
 
 # -------------------Papers---------------------------------------------------------------------------------------------
 
